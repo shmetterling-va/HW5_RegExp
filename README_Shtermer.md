@@ -9,7 +9,6 @@ Author-Vanessa Shtermer
 - `fastqs/` — fastq files, files `WT_*` were made by `rename_files`
 - `data/` — `phones.txt` and `song.txt` for the tasks
 
-Only standard library is used (`os`, `re`), you dont need to install anything.
 
 ## Functions
 
